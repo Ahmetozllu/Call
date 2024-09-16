@@ -11,9 +11,9 @@
 	<key>BUNDLE_ID</key>
 	<string>com.example.aramaApp</string>
 	<key>PROJECT_ID</key>
-	<string>dgnarama</string>
+	<string>arama</string>
 	<key>STORAGE_BUCKET</key>
-	<string>dgnarama.appspot.com</string>
+	<string>arama.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>

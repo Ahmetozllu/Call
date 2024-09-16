@@ -47,9 +47,9 @@ class DefaultFirebaseOptions {
     apiKey: 'AIzaSyA4-vnLC_AljSNGmlc3cOrYdF4Ys-CebJE',
     appId: '1:1023280359844:web:1a12bd2417f01740d2b931',
     messagingSenderId: '1023280359844',
-    projectId: 'dgnarama',
-    authDomain: 'dgnarama.firebaseapp.com',
-    storageBucket: 'dgnarama.appspot.com',
+    projectId: 'arama',
+    authDomain: 'arama.firebaseapp.com',
+    storageBucket: 'arama.appspot.com',
     measurementId: 'G-BCV17MN91S',
   );
 
@@ -57,16 +57,16 @@ class DefaultFirebaseOptions {
     apiKey: 'AIzaSyAdn5uJSKjtugRPvrYSwM7v3zY5cLrrNPw',
     appId: '1:1023280359844:android:736e9744071b7c57d2b931',
     messagingSenderId: '1023280359844',
-    projectId: 'dgnarama',
-    storageBucket: 'dgnarama.appspot.com',
+    projectId: 'arama',
+    storageBucket: 'arama.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyAlOqpDlg827rwEtv1KalQRk0MgLLFKtSM',
     appId: '1:1023280359844:ios:b6b8121bf2fc0a99d2b931',
     messagingSenderId: '1023280359844',
-    projectId: 'dgnarama',
-    storageBucket: 'dgnarama.appspot.com',
+    projectId: 'arama',
+    storageBucket: 'arama.appspot.com',
     iosBundleId: 'com.example.aramaApp',
   );
 
@@ -74,8 +74,8 @@ class DefaultFirebaseOptions {
     apiKey: 'AIzaSyAlOqpDlg827rwEtv1KalQRk0MgLLFKtSM',
     appId: '1:1023280359844:ios:7b76c6e947bb75b7d2b931',
     messagingSenderId: '1023280359844',
-    projectId: 'dgnarama',
-    storageBucket: 'dgnarama.appspot.com',
+    projectId: 'arama',
+    storageBucket: 'arama.appspot.com',
     iosBundleId: 'com.example.aramaApp.RunnerTests',
   );
 }
