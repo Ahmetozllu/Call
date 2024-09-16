@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023280359844",
+    "project_id": "dgnarama",
+    "storage_bucket": "dgnarama.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023280359844:android:736e9744071b7c57d2b931",
+        "android_client_info": {
+          "package_name": "com.example.arama_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdn5uJSKjtugRPvrYSwM7v3zY5cLrrNPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
