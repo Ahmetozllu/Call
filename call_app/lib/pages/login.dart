@@ -34,12 +34,11 @@ class _LoginPageState extends State<LoginPage> {
                       ),
                       const SizedBox(height: 30),
                       Image.asset(
-                        'assets/dgnlogo.png',
+                        'assets/.png',
                         height: 200,
                       ),
 
                       /* CircleAvatar(
-                        // backgroundImage: const AssetImage('assets/karatay_bldysi.jpg'),
                         radius: 100,
                       )*/
                       const SizedBox(height: 30),
